@@ -36,19 +36,12 @@ git clone https://github.com/matiaspinto2-max/Ciencia-de-datos-para-la-Economia.
 cd Ciencia-de-datos-para-la-Economia
 ```
 
-2. (Opcional) Crear un entorno virtual:
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-```
-
-3. Instalar las dependencias:
+2. Instalar las dependencias:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Abrir y ejecutar el cuaderno:
+3. Abrir y ejecutar el cuaderno:
 ```bash
 jupyter lab Bitcoin_Chen_Replica_Portafolio.ipynb
 ```
